@@ -1,0 +1,6 @@
+{
+  "name": "FocusTrack — Deep Work Cockpit",
+  "description": "Deep work cockpit, habit matrix protocol, focus timer chamber, and academic analytics for elite scholars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
